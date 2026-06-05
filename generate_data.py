@@ -110,7 +110,7 @@ for i in range(100):
     })
 df_orders = pd.DataFrame(orders_data)
 
-# Save tables to CSV files so we can load them into SQL Server
+# Save tables to CSV files to be loaded into SQL Server
 df_batches.to_csv('manufacturing_batches.csv', index=False)
 df_ledger.to_csv('item_ledger.csv', index=False)
 df_centers.to_csv('distribution_centers.csv', index=False)
