@@ -3,6 +3,8 @@
 ## Executive Summary
 This project analyzes manufacturing anomalies and distribution cost inefficiencies across Silph Co.’s regional logistics network (Kanto/Johto). By leveraging Python for data simulation, SQL (SSMS 21) for relational database modeling and auditing, and Tableau for executive dashboards, this analysis identifies a major mechanical failure point on Production Line B and proposes an inventory pre-positioning strategy to reduce premium shipping spend by tracking regional tournament demand spikes.
 
+(Dashboard not available at the moment)
+
 👉 [View the Interactive Tableau Dashboard Here](YOUR_TABLEAU_PUBLIC_LINK_HERE)
 
 ## Key Insights & Business Impact
